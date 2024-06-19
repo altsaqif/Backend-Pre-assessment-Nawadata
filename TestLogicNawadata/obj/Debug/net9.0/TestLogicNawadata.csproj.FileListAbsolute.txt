@@ -1,0 +1,14 @@
+R:\Logic Test Interview\Backend Pre-assessment Nawadata\TestLogicNawadata\obj\Debug\net9.0\TestLogicNawadata.GeneratedMSBuildEditorConfig.editorconfig
+R:\Logic Test Interview\Backend Pre-assessment Nawadata\TestLogicNawadata\obj\Debug\net9.0\TestLogicNawadata.AssemblyInfoInputs.cache
+R:\Logic Test Interview\Backend Pre-assessment Nawadata\TestLogicNawadata\obj\Debug\net9.0\TestLogicNawadata.AssemblyInfo.cs
+R:\Logic Test Interview\Backend Pre-assessment Nawadata\TestLogicNawadata\obj\Debug\net9.0\TestLogicNawadata.csproj.CoreCompileInputs.cache
+R:\Logic Test Interview\Backend Pre-assessment Nawadata\TestLogicNawadata\bin\Debug\net9.0\TestLogicNawadata.exe
+R:\Logic Test Interview\Backend Pre-assessment Nawadata\TestLogicNawadata\bin\Debug\net9.0\TestLogicNawadata.deps.json
+R:\Logic Test Interview\Backend Pre-assessment Nawadata\TestLogicNawadata\bin\Debug\net9.0\TestLogicNawadata.runtimeconfig.json
+R:\Logic Test Interview\Backend Pre-assessment Nawadata\TestLogicNawadata\bin\Debug\net9.0\TestLogicNawadata.dll
+R:\Logic Test Interview\Backend Pre-assessment Nawadata\TestLogicNawadata\bin\Debug\net9.0\TestLogicNawadata.pdb
+R:\Logic Test Interview\Backend Pre-assessment Nawadata\TestLogicNawadata\obj\Debug\net9.0\TestLogicNawadata.dll
+R:\Logic Test Interview\Backend Pre-assessment Nawadata\TestLogicNawadata\obj\Debug\net9.0\refint\TestLogicNawadata.dll
+R:\Logic Test Interview\Backend Pre-assessment Nawadata\TestLogicNawadata\obj\Debug\net9.0\TestLogicNawadata.pdb
+R:\Logic Test Interview\Backend Pre-assessment Nawadata\TestLogicNawadata\obj\Debug\net9.0\TestLogicNawadata.genruntimeconfig.cache
+R:\Logic Test Interview\Backend Pre-assessment Nawadata\TestLogicNawadata\obj\Debug\net9.0\ref\TestLogicNawadata.dll
